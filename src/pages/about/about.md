@@ -7,4 +7,4 @@ location: Vadodara, Gujarat, India
 # website: "http://tafutza.hn/kos"
 ---
 
-Heyy there, I am Full Stack Developer and Computer Science Engineer with experience building scalable web applications. Skilled in the MERN stack, Angular, .NET, and SQL, with a background in enterprise-level frontend development, complex backend workflows, and system optimization. Passionate about solving challenging problems, writing clean code, and delivering reliable solutions while continually growing in the tech space.
+Hey there, I am a Full Stack Developer and Computer Science Engineer specializing in Angular, .NET, and the MERN stack. I build scalable enterprise web applications, optimize complex backend workflows, and integrate modern AI solutions to solve challenging problems and deliver seamless user experiences.
